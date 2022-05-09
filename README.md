@@ -19,6 +19,10 @@ local machine and help you see changes instantly.
 docker-compose up
 ```
 
+## Docker Orchestration Hands-on Lab
+
+[JUMP HERE](https://training.play-with-docker.com/orchestration-hol/)
+
 ## Contributing
 
 If you find typos or other issues with the tutorial, feel free to create a PR and suggest fixes!
